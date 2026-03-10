@@ -1,19 +1,28 @@
-# 🖼️ Image Classification using Convolutional Neural Network
+# 🤖 AI Chatbot using LLM and LangChain
 
 ## 📌 Project Overview
-This project classifies images into categories using a Convolutional Neural Network (CNN).
+This project implements an intelligent chatbot powered by Large Language Models (LLM) using LangChain for prompt management and conversational flow.
 
-## 📊 Dataset
-Image dataset organized into labeled categories.
+## 🧠 Features
+- Context-aware conversations
+- Prompt engineering
+- Integration with LLM APIs
+- Memory handling
 
-## 🧠 Techniques Used
-- Image Preprocessing
-- Data Augmentation
-- CNN Architecture
-- Model Training & Evaluation
+## 🛠 Technologies
+Python, LangChain, LLM API, FastAPI (optional)
 
-## 📈 Model Evaluation
-- Accuracy
+## ▶️ How to Run
+1. Install dependencies  
+   pip install -r requirements.txt
+
+2. Add API key
+
+3. Run application
+
+## 📌 Future Improvements
+- Add RAG pipeline
+- Web interface using Streamlit
 - Loss Curves
 
 ## 🛠 Technologies
